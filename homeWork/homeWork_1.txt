@@ -1,0 +1,25 @@
+1.Find all issues that are not closed
+ Status != Closed 
+
+2.Find all issues that are NAB
+ issuetype = 'NAB'
+ 
+3.Find issue(s) when buttons are active while fields are not filled
+
+4.Find issues that are openened during the last 4 days and closed between Jan 16-21 
+ created > '-4d' AND closed <= '2021/16/02'
+ 
+5.Find all issues with Highest Priority and empty label
+ priority = empty
+ 
+6.Find all issues that do not have attachment 
+attachments is EMPTY
+
+8.Find all tickets that are not assigned to any sprint
+approvals is EMPTY
+
+9.Find all stories that have related test cases
+
+
+10.find all issues created by you
+projectsLeadByUser()

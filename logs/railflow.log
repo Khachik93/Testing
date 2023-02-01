@@ -1,0 +1,920 @@
+[2023-01-17T10:35:51.594] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:35:51.596] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:35:51.597] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T10:35:51.598] INFO  # username = testrail-khachik_m@instigatemobile.com                                                #
+[2023-01-17T10:35:51.599] INFO  # password = ***********                                                                           #
+[2023-01-17T10:35:51.600] INFO  # proxy =                                                                                          #
+[2023-01-17T10:35:51.600] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:35:51.601] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:35:51.601] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:35:51.602] INFO  # format = playwright                                                                              #
+[2023-01-17T10:35:51.602] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:35:51.603] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:35:51.603] INFO  # test-run =                                                                                       #
+[2023-01-17T10:35:51.604] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:35:51.604] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:35:51.605] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:35:51.605] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:35:51.606] INFO  # assign =                                                                                         #
+[2023-01-17T10:35:51.606] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:35:51.607] INFO  # config-names =                                                                                   #
+[2023-01-17T10:35:51.607] INFO  # close-run =                                                                                      #
+[2023-01-17T10:35:51.608] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:35:51.608] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:35:51.609] INFO  # template-name =                                                                                  #
+[2023-01-17T10:35:51.609] INFO  # case-type =                                                                                      #
+[2023-01-17T10:35:51.610] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:35:51.610] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:35:51.611] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:35:51.611] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:35:51.612] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:35:51.612] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:35:51.612] INFO  # untested-status =                                                                                #
+[2023-01-17T10:35:51.613] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:35:51.613] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:35:51.614] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:35:51.614] INFO  ####################################################################################################
+[2023-01-17T10:35:52.845] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:35:52.845] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:35:52.846] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:35:52.846] ERROR ####################################################################################################
+[2023-01-17T10:48:02.207] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:48:02.210] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:48:02.211] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T10:48:02.211] INFO  # username = khachik_m@instigatemobile.com                                                         #
+[2023-01-17T10:48:02.212] INFO  # password = ***********                                                                           #
+[2023-01-17T10:48:02.213] INFO  # proxy =                                                                                          #
+[2023-01-17T10:48:02.213] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:48:02.214] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:48:02.214] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:48:02.214] INFO  # format = playwright                                                                              #
+[2023-01-17T10:48:02.215] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:48:02.215] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:48:02.216] INFO  # test-run =                                                                                       #
+[2023-01-17T10:48:02.216] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:48:02.216] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:48:02.217] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:48:02.217] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:48:02.218] INFO  # assign =                                                                                         #
+[2023-01-17T10:48:02.218] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:48:02.219] INFO  # config-names =                                                                                   #
+[2023-01-17T10:48:02.219] INFO  # close-run =                                                                                      #
+[2023-01-17T10:48:02.220] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:48:02.220] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:48:02.221] INFO  # template-name =                                                                                  #
+[2023-01-17T10:48:02.221] INFO  # case-type =                                                                                      #
+[2023-01-17T10:48:02.222] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:48:02.222] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:48:02.223] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:48:02.223] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:48:02.224] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:48:02.224] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:48:02.225] INFO  # untested-status =                                                                                #
+[2023-01-17T10:48:02.225] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:48:02.226] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:48:02.226] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:48:02.227] INFO  ####################################################################################################
+[2023-01-17T10:48:03.676] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:48:03.676] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:48:03.677] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:48:03.677] ERROR ####################################################################################################
+[2023-01-17T10:49:35.337] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:49:35.340] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:49:35.341] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T10:49:35.341] INFO  # username = khachik_m@instigatemobile.com                                                         #
+[2023-01-17T10:49:35.342] INFO  # password = ***********                                                                           #
+[2023-01-17T10:49:35.342] INFO  # proxy =                                                                                          #
+[2023-01-17T10:49:35.343] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:49:35.343] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:49:35.344] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:49:35.344] INFO  # format = playwright                                                                              #
+[2023-01-17T10:49:35.344] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:49:35.345] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:49:35.345] INFO  # test-run =                                                                                       #
+[2023-01-17T10:49:35.346] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:49:35.346] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:49:35.347] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:49:35.347] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:49:35.348] INFO  # assign =                                                                                         #
+[2023-01-17T10:49:35.348] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:49:35.348] INFO  # config-names =                                                                                   #
+[2023-01-17T10:49:35.349] INFO  # close-run =                                                                                      #
+[2023-01-17T10:49:35.349] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:49:35.350] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:49:35.350] INFO  # template-name =                                                                                  #
+[2023-01-17T10:49:35.351] INFO  # case-type =                                                                                      #
+[2023-01-17T10:49:35.351] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:49:35.352] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:49:35.353] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:49:35.353] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:49:35.354] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:49:35.354] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:49:35.355] INFO  # untested-status =                                                                                #
+[2023-01-17T10:49:35.355] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:49:35.355] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:49:35.356] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:49:35.356] INFO  ####################################################################################################
+[2023-01-17T10:49:36.127] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:49:36.128] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:49:36.128] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:49:36.128] ERROR ####################################################################################################
+[2023-01-17T10:52:38.492] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:52:38.495] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:52:38.496] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T10:52:38.496] INFO  # username = khachik_m@instigatemobile.com                                                         #
+[2023-01-17T10:52:38.497] INFO  # password = ***********                                                                           #
+[2023-01-17T10:52:38.498] INFO  # proxy =                                                                                          #
+[2023-01-17T10:52:38.498] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:52:38.499] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:52:38.499] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:52:38.499] INFO  # format = playwright                                                                              #
+[2023-01-17T10:52:38.500] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:52:38.500] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:52:38.501] INFO  # test-run =                                                                                       #
+[2023-01-17T10:52:38.501] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:52:38.501] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:52:38.502] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:52:38.502] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:52:38.503] INFO  # assign =                                                                                         #
+[2023-01-17T10:52:38.503] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:52:38.504] INFO  # config-names =                                                                                   #
+[2023-01-17T10:52:38.504] INFO  # close-run =                                                                                      #
+[2023-01-17T10:52:38.505] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:52:38.505] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:52:38.506] INFO  # template-name =                                                                                  #
+[2023-01-17T10:52:38.506] INFO  # case-type =                                                                                      #
+[2023-01-17T10:52:38.507] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:52:38.507] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:52:38.508] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:52:38.509] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:52:38.509] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:52:38.509] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:52:38.510] INFO  # untested-status =                                                                                #
+[2023-01-17T10:52:38.510] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:52:38.511] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:52:38.511] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:52:38.512] INFO  ####################################################################################################
+[2023-01-17T10:52:39.243] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:52:39.244] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:52:39.244] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:52:39.245] ERROR ####################################################################################################
+[2023-01-17T10:53:15.932] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:53:15.934] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:53:15.935] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T10:53:15.936] INFO  # username = khachik                                                                               #
+[2023-01-17T10:53:15.936] INFO  # password = ***********                                                                           #
+[2023-01-17T10:53:15.937] INFO  # proxy =                                                                                          #
+[2023-01-17T10:53:15.938] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:53:15.938] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:53:15.938] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:53:15.939] INFO  # format = playwright                                                                              #
+[2023-01-17T10:53:15.939] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:53:15.940] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:53:15.940] INFO  # test-run =                                                                                       #
+[2023-01-17T10:53:15.941] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:53:15.941] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:53:15.942] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:53:15.942] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:53:15.943] INFO  # assign =                                                                                         #
+[2023-01-17T10:53:15.943] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:53:15.944] INFO  # config-names =                                                                                   #
+[2023-01-17T10:53:15.944] INFO  # close-run =                                                                                      #
+[2023-01-17T10:53:15.945] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:53:15.945] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:53:15.946] INFO  # template-name =                                                                                  #
+[2023-01-17T10:53:15.946] INFO  # case-type =                                                                                      #
+[2023-01-17T10:53:15.947] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:53:15.947] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:53:15.948] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:53:15.949] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:53:15.949] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:53:15.949] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:53:15.950] INFO  # untested-status =                                                                                #
+[2023-01-17T10:53:15.950] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:53:15.951] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:53:15.951] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:53:15.952] INFO  ####################################################################################################
+[2023-01-17T10:53:16.828] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:53:16.828] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:53:16.829] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:53:16.829] ERROR ####################################################################################################
+[2023-01-17T10:54:23.473] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T10:54:23.476] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T10:54:23.477] INFO  # url = https://buy.testrail.io/index.php?/projects/overview/1                                     #
+[2023-01-17T10:54:23.477] INFO  # username = khachik                                                                               #
+[2023-01-17T10:54:23.478] INFO  # password = ***********                                                                           #
+[2023-01-17T10:54:23.478] INFO  # proxy =                                                                                          #
+[2023-01-17T10:54:23.479] INFO  # timeout = 0                                                                                      #
+[2023-01-17T10:54:23.479] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T10:54:23.480] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T10:54:23.481] INFO  # format = playwright                                                                              #
+[2023-01-17T10:54:23.481] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T10:54:23.481] INFO  # search-mode = path                                                                               #
+[2023-01-17T10:54:23.482] INFO  # test-run =                                                                                       #
+[2023-01-17T10:54:23.482] INFO  # test-plan =                                                                                      #
+[2023-01-17T10:54:23.483] INFO  # milestone-path =                                                                                 #
+[2023-01-17T10:54:23.483] INFO  # case-fields =                                                                                    #
+[2023-01-17T10:54:23.484] INFO  # result-fields =                                                                                  #
+[2023-01-17T10:54:23.484] INFO  # assign =                                                                                         #
+[2023-01-17T10:54:23.485] INFO  # assign-file =                                                                                    #
+[2023-01-17T10:54:23.485] INFO  # config-names =                                                                                   #
+[2023-01-17T10:54:23.486] INFO  # close-run =                                                                                      #
+[2023-01-17T10:54:23.486] INFO  # close-plan =                                                                                     #
+[2023-01-17T10:54:23.487] INFO  # disable-grouping =                                                                               #
+[2023-01-17T10:54:23.487] INFO  # template-name =                                                                                  #
+[2023-01-17T10:54:23.487] INFO  # case-type =                                                                                      #
+[2023-01-17T10:54:23.488] INFO  # case-priority =                                                                                  #
+[2023-01-17T10:54:23.489] INFO  # thread-number = 4                                                                                #
+[2023-01-17T10:54:23.489] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T10:54:23.490] INFO  # case-search-field =                                                                              #
+[2023-01-17T10:54:23.490] INFO  # disable-stats =                                                                                  #
+[2023-01-17T10:54:23.491] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T10:54:23.491] INFO  # untested-status =                                                                                #
+[2023-01-17T10:54:23.492] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T10:54:23.492] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T10:54:23.493] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T10:54:23.493] INFO  ####################################################################################################
+[2023-01-17T10:54:24.269] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T10:54:24.270] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T10:54:24.271] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T10:54:24.271] ERROR ####################################################################################################
+[2023-01-17T11:25:05.198] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:25:05.201] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:25:05.202] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:25:05.203] INFO  # username = testrail-username                                                                     #
+[2023-01-17T11:25:05.203] INFO  # password = ***********                                                                           #
+[2023-01-17T11:25:05.204] INFO  # proxy =                                                                                          #
+[2023-01-17T11:25:05.205] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:25:05.205] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T11:25:05.206] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T11:25:05.207] INFO  # format = playwright                                                                              #
+[2023-01-17T11:25:05.207] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:25:05.208] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:25:05.208] INFO  # test-run =                                                                                       #
+[2023-01-17T11:25:05.209] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:25:05.210] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:25:05.210] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:25:05.211] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:25:05.211] INFO  # assign =                                                                                         #
+[2023-01-17T11:25:05.211] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:25:05.212] INFO  # config-names =                                                                                   #
+[2023-01-17T11:25:05.212] INFO  # close-run =                                                                                      #
+[2023-01-17T11:25:05.213] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:25:05.213] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:25:05.214] INFO  # template-name =                                                                                  #
+[2023-01-17T11:25:05.214] INFO  # case-type =                                                                                      #
+[2023-01-17T11:25:05.215] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:25:05.215] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:25:05.216] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:25:05.217] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:25:05.217] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:25:05.218] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:25:05.218] INFO  # untested-status =                                                                                #
+[2023-01-17T11:25:05.218] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:25:05.219] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:25:05.219] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:25:05.220] INFO  ####################################################################################################
+[2023-01-17T11:25:06.742] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:25:06.743] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:25:06.744] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:25:06.744] ERROR ####################################################################################################
+[2023-01-17T11:37:23.834] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:37:23.837] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:37:23.838] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:37:23.838] INFO  # username = testrail-username                                                                     #
+[2023-01-17T11:37:23.839] INFO  # password = ***********                                                                           #
+[2023-01-17T11:37:23.839] INFO  # proxy =                                                                                          #
+[2023-01-17T11:37:23.840] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:37:23.840] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T11:37:23.841] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T11:37:23.841] INFO  # format = playwright                                                                              #
+[2023-01-17T11:37:23.842] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:37:23.842] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:37:23.843] INFO  # test-run =                                                                                       #
+[2023-01-17T11:37:23.843] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:37:23.844] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:37:23.844] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:37:23.845] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:37:23.845] INFO  # assign =                                                                                         #
+[2023-01-17T11:37:23.846] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:37:23.846] INFO  # config-names =                                                                                   #
+[2023-01-17T11:37:23.847] INFO  # close-run =                                                                                      #
+[2023-01-17T11:37:23.847] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:37:23.848] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:37:23.848] INFO  # template-name =                                                                                  #
+[2023-01-17T11:37:23.849] INFO  # case-type =                                                                                      #
+[2023-01-17T11:37:23.849] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:37:23.850] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:37:23.851] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:37:23.851] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:37:23.852] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:37:23.852] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:37:23.852] INFO  # untested-status =                                                                                #
+[2023-01-17T11:37:23.853] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:37:23.853] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:37:23.854] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:37:23.854] INFO  ####################################################################################################
+[2023-01-17T11:37:24.948] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:37:24.949] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:37:24.950] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:37:24.951] ERROR ####################################################################################################
+[2023-01-17T11:38:01.445] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:38:01.448] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:38:01.449] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:38:01.450] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:38:01.450] INFO  # password = ***********                                                                           #
+[2023-01-17T11:38:01.451] INFO  # proxy =                                                                                          #
+[2023-01-17T11:38:01.451] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:38:01.452] INFO  # project = Railflow Demo                                                                          #
+[2023-01-17T11:38:01.452] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T11:38:01.452] INFO  # format = playwright                                                                              #
+[2023-01-17T11:38:01.453] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:38:01.453] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:38:01.453] INFO  # test-run =                                                                                       #
+[2023-01-17T11:38:01.454] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:38:01.454] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:38:01.455] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:38:01.455] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:38:01.455] INFO  # assign =                                                                                         #
+[2023-01-17T11:38:01.456] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:38:01.456] INFO  # config-names =                                                                                   #
+[2023-01-17T11:38:01.457] INFO  # close-run =                                                                                      #
+[2023-01-17T11:38:01.457] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:38:01.458] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:38:01.458] INFO  # template-name =                                                                                  #
+[2023-01-17T11:38:01.459] INFO  # case-type =                                                                                      #
+[2023-01-17T11:38:01.459] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:38:01.460] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:38:01.460] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:38:01.461] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:38:01.461] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:38:01.462] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:38:01.462] INFO  # untested-status =                                                                                #
+[2023-01-17T11:38:01.463] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:38:01.463] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:38:01.463] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:38:01.464] INFO  ####################################################################################################
+[2023-01-17T11:38:02.154] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:38:02.155] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:38:02.156] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:38:02.157] ERROR ####################################################################################################
+[2023-01-17T11:40:14.660] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:40:14.662] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:40:14.663] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:40:14.664] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:40:14.664] INFO  # password = ***********                                                                           #
+[2023-01-17T11:40:14.665] INFO  # proxy =                                                                                          #
+[2023-01-17T11:40:14.665] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:40:14.666] INFO  # project = Test project                                                                           #
+[2023-01-17T11:40:14.666] INFO  # test-path = section1/section2                                                                    #
+[2023-01-17T11:40:14.667] INFO  # format = playwright                                                                              #
+[2023-01-17T11:40:14.667] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:40:14.667] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:40:14.668] INFO  # test-run =                                                                                       #
+[2023-01-17T11:40:14.668] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:40:14.669] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:40:14.669] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:40:14.670] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:40:14.670] INFO  # assign =                                                                                         #
+[2023-01-17T11:40:14.671] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:40:14.671] INFO  # config-names =                                                                                   #
+[2023-01-17T11:40:14.672] INFO  # close-run =                                                                                      #
+[2023-01-17T11:40:14.672] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:40:14.673] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:40:14.673] INFO  # template-name =                                                                                  #
+[2023-01-17T11:40:14.674] INFO  # case-type =                                                                                      #
+[2023-01-17T11:40:14.674] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:40:14.675] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:40:14.676] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:40:14.676] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:40:14.677] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:40:14.677] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:40:14.678] INFO  # untested-status =                                                                                #
+[2023-01-17T11:40:14.678] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:40:14.678] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:40:14.679] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:40:14.679] INFO  ####################################################################################################
+[2023-01-17T11:40:15.446] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:40:15.447] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:40:15.448] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:40:15.449] ERROR ####################################################################################################
+[2023-01-17T11:41:25.888] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:41:25.890] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:41:25.892] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:41:25.892] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:41:25.892] INFO  # password = ***********                                                                           #
+[2023-01-17T11:41:25.893] INFO  # proxy =                                                                                          #
+[2023-01-17T11:41:25.894] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:41:25.894] INFO  # project = Test project                                                                           #
+[2023-01-17T11:41:25.894] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-17T11:41:25.895] INFO  # format = playwright                                                                              #
+[2023-01-17T11:41:25.895] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:41:25.896] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:41:25.896] INFO  # test-run =                                                                                       #
+[2023-01-17T11:41:25.897] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:41:25.897] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:41:25.898] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:41:25.898] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:41:25.899] INFO  # assign =                                                                                         #
+[2023-01-17T11:41:25.899] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:41:25.900] INFO  # config-names =                                                                                   #
+[2023-01-17T11:41:25.900] INFO  # close-run =                                                                                      #
+[2023-01-17T11:41:25.900] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:41:25.901] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:41:25.901] INFO  # template-name =                                                                                  #
+[2023-01-17T11:41:25.902] INFO  # case-type =                                                                                      #
+[2023-01-17T11:41:25.902] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:41:25.902] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:41:25.903] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:41:25.903] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:41:25.904] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:41:25.904] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:41:25.905] INFO  # untested-status =                                                                                #
+[2023-01-17T11:41:25.905] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:41:25.906] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:41:25.906] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:41:25.907] INFO  ####################################################################################################
+[2023-01-17T11:41:27.043] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:41:27.044] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:41:27.045] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:41:27.046] ERROR ####################################################################################################
+[2023-01-17T11:42:39.658] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:42:39.661] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:42:39.662] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:42:39.663] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:42:39.663] INFO  # password = ***********                                                                           #
+[2023-01-17T11:42:39.664] INFO  # proxy =                                                                                          #
+[2023-01-17T11:42:39.664] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:42:39.665] INFO  # project = Test project                                                                           #
+[2023-01-17T11:42:39.665] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-17T11:42:39.666] INFO  # format = playwright                                                                              #
+[2023-01-17T11:42:39.666] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:42:39.667] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:42:39.667] INFO  # test-run =                                                                                       #
+[2023-01-17T11:42:39.668] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:42:39.668] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:42:39.669] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:42:39.669] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:42:39.670] INFO  # assign =                                                                                         #
+[2023-01-17T11:42:39.670] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:42:39.671] INFO  # config-names =                                                                                   #
+[2023-01-17T11:42:39.672] INFO  # close-run =                                                                                      #
+[2023-01-17T11:42:39.672] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:42:39.673] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:42:39.673] INFO  # template-name =                                                                                  #
+[2023-01-17T11:42:39.674] INFO  # case-type =                                                                                      #
+[2023-01-17T11:42:39.674] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:42:39.675] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:42:39.675] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:42:39.676] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:42:39.676] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:42:39.677] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:42:39.677] INFO  # untested-status =                                                                                #
+[2023-01-17T11:42:39.677] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:42:39.678] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:42:39.678] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:42:39.679] INFO  ####################################################################################################
+[2023-01-17T11:42:40.961] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:42:40.962] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:42:40.962] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:42:40.963] ERROR ####################################################################################################
+[2023-01-17T11:44:01.577] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:44:01.579] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:44:01.581] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:44:01.581] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:44:01.581] INFO  # password = ***********                                                                           #
+[2023-01-17T11:44:01.582] INFO  # proxy =                                                                                          #
+[2023-01-17T11:44:01.582] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:44:01.583] INFO  # project = Test project                                                                           #
+[2023-01-17T11:44:01.583] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-17T11:44:01.584] INFO  # format = playwright                                                                              #
+[2023-01-17T11:44:01.584] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:44:01.585] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:44:01.585] INFO  # test-run =                                                                                       #
+[2023-01-17T11:44:01.585] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:44:01.586] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:44:01.586] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:44:01.587] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:44:01.587] INFO  # assign =                                                                                         #
+[2023-01-17T11:44:01.587] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:44:01.588] INFO  # config-names =                                                                                   #
+[2023-01-17T11:44:01.588] INFO  # close-run =                                                                                      #
+[2023-01-17T11:44:01.588] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:44:01.589] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:44:01.589] INFO  # template-name =                                                                                  #
+[2023-01-17T11:44:01.589] INFO  # case-type =                                                                                      #
+[2023-01-17T11:44:01.590] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:44:01.590] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:44:01.591] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:44:01.591] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:44:01.592] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:44:01.592] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:44:01.592] INFO  # untested-status =                                                                                #
+[2023-01-17T11:44:01.593] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:44:01.593] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:44:01.594] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:44:01.594] INFO  ####################################################################################################
+[2023-01-17T11:44:02.412] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:44:02.413] ERROR # Railflow license: fcjUWmmg0aTpBEwGX0JS-lKb21Q5gxjoQh3IJ1BH6 is invalid. Please contact Railflow for support.
+[2023-01-17T11:44:02.413] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:44:02.413] ERROR ####################################################################################################
+[2023-01-17T11:44:34.586] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:44:34.588] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:44:34.590] INFO  # url = https://testrail.your-server.com/                                                          #
+[2023-01-17T11:44:34.590] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:44:34.590] INFO  # password = ***********                                                                           #
+[2023-01-17T11:44:34.591] INFO  # proxy =                                                                                          #
+[2023-01-17T11:44:34.592] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:44:34.592] INFO  # project = Test project                                                                           #
+[2023-01-17T11:44:34.592] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-17T11:44:34.593] INFO  # format = playwright                                                                              #
+[2023-01-17T11:44:34.593] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:44:34.594] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:44:34.594] INFO  # test-run =                                                                                       #
+[2023-01-17T11:44:34.595] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:44:34.595] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:44:34.596] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:44:34.596] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:44:34.597] INFO  # assign =                                                                                         #
+[2023-01-17T11:44:34.597] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:44:34.597] INFO  # config-names =                                                                                   #
+[2023-01-17T11:44:34.598] INFO  # close-run =                                                                                      #
+[2023-01-17T11:44:34.598] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:44:34.599] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:44:34.599] INFO  # template-name =                                                                                  #
+[2023-01-17T11:44:34.600] INFO  # case-type =                                                                                      #
+[2023-01-17T11:44:34.600] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:44:34.601] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:44:34.601] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:44:34.602] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:44:34.602] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:44:34.603] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:44:34.603] INFO  # untested-status =                                                                                #
+[2023-01-17T11:44:34.604] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:44:34.604] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:44:34.604] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:44:34.605] INFO  ####################################################################################################
+[2023-01-17T11:44:35.259] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:44:35.259] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:44:35.259] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:44:35.259] ERROR ####################################################################################################
+[2023-01-17T11:56:45.516] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-17T11:56:45.518] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-17T11:56:45.519] INFO  # url = https://buy.testrail.io/index.php?/projects/overview/1                                     #
+[2023-01-17T11:56:45.520] INFO  # username = Khachik                                                                               #
+[2023-01-17T11:56:45.520] INFO  # password = ***********                                                                           #
+[2023-01-17T11:56:45.521] INFO  # proxy =                                                                                          #
+[2023-01-17T11:56:45.522] INFO  # timeout = 0                                                                                      #
+[2023-01-17T11:56:45.522] INFO  # project = Test project                                                                           #
+[2023-01-17T11:56:45.522] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-17T11:56:45.523] INFO  # format = playwright                                                                              #
+[2023-01-17T11:56:45.523] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-17T11:56:45.524] INFO  # search-mode = path                                                                               #
+[2023-01-17T11:56:45.524] INFO  # test-run =                                                                                       #
+[2023-01-17T11:56:45.525] INFO  # test-plan =                                                                                      #
+[2023-01-17T11:56:45.526] INFO  # milestone-path =                                                                                 #
+[2023-01-17T11:56:45.526] INFO  # case-fields =                                                                                    #
+[2023-01-17T11:56:45.527] INFO  # result-fields =                                                                                  #
+[2023-01-17T11:56:45.527] INFO  # assign =                                                                                         #
+[2023-01-17T11:56:45.528] INFO  # assign-file =                                                                                    #
+[2023-01-17T11:56:45.528] INFO  # config-names =                                                                                   #
+[2023-01-17T11:56:45.529] INFO  # close-run =                                                                                      #
+[2023-01-17T11:56:45.529] INFO  # close-plan =                                                                                     #
+[2023-01-17T11:56:45.530] INFO  # disable-grouping =                                                                               #
+[2023-01-17T11:56:45.530] INFO  # template-name =                                                                                  #
+[2023-01-17T11:56:45.531] INFO  # case-type =                                                                                      #
+[2023-01-17T11:56:45.531] INFO  # case-priority =                                                                                  #
+[2023-01-17T11:56:45.532] INFO  # thread-number = 4                                                                                #
+[2023-01-17T11:56:45.532] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-17T11:56:45.533] INFO  # case-search-field =                                                                              #
+[2023-01-17T11:56:45.533] INFO  # disable-stats =                                                                                  #
+[2023-01-17T11:56:45.534] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-17T11:56:45.534] INFO  # untested-status =                                                                                #
+[2023-01-17T11:56:45.535] INFO  # attachment-max-size =                                                                            #
+[2023-01-17T11:56:45.535] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-17T11:56:45.535] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-17T11:56:45.536] INFO  ####################################################################################################
+[2023-01-17T11:56:47.469] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-17T11:56:47.470] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-17T11:56:47.471] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-17T11:56:47.472] ERROR ####################################################################################################
+[2023-01-18T09:40:13.560] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-18T09:40:13.563] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-18T09:40:13.564] INFO  # url = https://buy.testrail.io/index.php?/projects/overview/1                                     #
+[2023-01-18T09:40:13.565] INFO  # username = Khachik                                                                               #
+[2023-01-18T09:40:13.566] INFO  # password = ***********                                                                           #
+[2023-01-18T09:40:13.567] INFO  # proxy =                                                                                          #
+[2023-01-18T09:40:13.567] INFO  # timeout = 0                                                                                      #
+[2023-01-18T09:40:13.568] INFO  # project = Test project                                                                           #
+[2023-01-18T09:40:13.568] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-18T09:40:13.569] INFO  # format = playwright                                                                              #
+[2023-01-18T09:40:13.570] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-18T09:40:13.570] INFO  # search-mode = path                                                                               #
+[2023-01-18T09:40:13.571] INFO  # test-run =                                                                                       #
+[2023-01-18T09:40:13.571] INFO  # test-plan =                                                                                      #
+[2023-01-18T09:40:13.572] INFO  # milestone-path =                                                                                 #
+[2023-01-18T09:40:13.573] INFO  # case-fields =                                                                                    #
+[2023-01-18T09:40:13.573] INFO  # result-fields =                                                                                  #
+[2023-01-18T09:40:13.573] INFO  # assign =                                                                                         #
+[2023-01-18T09:40:13.574] INFO  # assign-file =                                                                                    #
+[2023-01-18T09:40:13.574] INFO  # config-names =                                                                                   #
+[2023-01-18T09:40:13.575] INFO  # close-run =                                                                                      #
+[2023-01-18T09:40:13.575] INFO  # close-plan =                                                                                     #
+[2023-01-18T09:40:13.576] INFO  # disable-grouping =                                                                               #
+[2023-01-18T09:40:13.576] INFO  # template-name =                                                                                  #
+[2023-01-18T09:40:13.577] INFO  # case-type =                                                                                      #
+[2023-01-18T09:40:13.578] INFO  # case-priority =                                                                                  #
+[2023-01-18T09:40:13.578] INFO  # thread-number = 4                                                                                #
+[2023-01-18T09:40:13.579] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-18T09:40:13.579] INFO  # case-search-field =                                                                              #
+[2023-01-18T09:40:13.580] INFO  # disable-stats =                                                                                  #
+[2023-01-18T09:40:13.580] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-18T09:40:13.580] INFO  # untested-status =                                                                                #
+[2023-01-18T09:40:13.581] INFO  # attachment-max-size =                                                                            #
+[2023-01-18T09:40:13.581] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-18T09:40:13.582] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-18T09:40:13.582] INFO  ####################################################################################################
+[2023-01-18T09:40:15.068] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-18T09:40:15.069] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-18T09:40:15.069] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-18T09:40:15.069] ERROR ####################################################################################################
+[2023-01-18T09:43:18.931] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-18T09:43:18.934] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-18T09:43:18.935] INFO  # url = https://buy.testrail.io/index.php?/projects/overview/1                                     #
+[2023-01-18T09:43:18.935] INFO  # username = Khachik                                                                               #
+[2023-01-18T09:43:18.936] INFO  # password = ***********                                                                           #
+[2023-01-18T09:43:18.937] INFO  # proxy =                                                                                          #
+[2023-01-18T09:43:18.937] INFO  # timeout = 0                                                                                      #
+[2023-01-18T09:43:18.938] INFO  # project = Test project                                                                           #
+[2023-01-18T09:43:18.938] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-18T09:43:18.938] INFO  # format = playwright                                                                              #
+[2023-01-18T09:43:18.939] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-18T09:43:18.939] INFO  # search-mode = path                                                                               #
+[2023-01-18T09:43:18.940] INFO  # test-run =                                                                                       #
+[2023-01-18T09:43:18.940] INFO  # test-plan =                                                                                      #
+[2023-01-18T09:43:18.941] INFO  # milestone-path =                                                                                 #
+[2023-01-18T09:43:18.942] INFO  # case-fields =                                                                                    #
+[2023-01-18T09:43:18.942] INFO  # result-fields =                                                                                  #
+[2023-01-18T09:43:18.942] INFO  # assign =                                                                                         #
+[2023-01-18T09:43:18.943] INFO  # assign-file =                                                                                    #
+[2023-01-18T09:43:18.943] INFO  # config-names =                                                                                   #
+[2023-01-18T09:43:18.944] INFO  # close-run =                                                                                      #
+[2023-01-18T09:43:18.944] INFO  # close-plan =                                                                                     #
+[2023-01-18T09:43:18.945] INFO  # disable-grouping =                                                                               #
+[2023-01-18T09:43:18.945] INFO  # template-name =                                                                                  #
+[2023-01-18T09:43:18.946] INFO  # case-type =                                                                                      #
+[2023-01-18T09:43:18.946] INFO  # case-priority =                                                                                  #
+[2023-01-18T09:43:18.947] INFO  # thread-number = 4                                                                                #
+[2023-01-18T09:43:18.948] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-18T09:43:18.948] INFO  # case-search-field =                                                                              #
+[2023-01-18T09:43:18.949] INFO  # disable-stats =                                                                                  #
+[2023-01-18T09:43:18.949] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-18T09:43:18.950] INFO  # untested-status =                                                                                #
+[2023-01-18T09:43:18.950] INFO  # attachment-max-size =                                                                            #
+[2023-01-18T09:43:18.951] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-18T09:43:18.951] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-18T09:43:18.952] INFO  ####################################################################################################
+[2023-01-18T09:43:19.801] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-18T09:43:19.802] ERROR # Railflow license: A34F9-C30A6-47323-5CAoF is invalid. Please contact Railflow for support.       #
+[2023-01-18T09:43:19.803] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-18T09:43:19.804] ERROR ####################################################################################################
+[2023-01-18T09:51:48.252] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-18T09:51:48.255] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-18T09:51:48.256] INFO  # url = https://buy.testrail.io/index.php?/projects/overview/1                                     #
+[2023-01-18T09:51:48.256] INFO  # username = Khachik                                                                               #
+[2023-01-18T09:51:48.257] INFO  # password = ***********                                                                           #
+[2023-01-18T09:51:48.258] INFO  # proxy =                                                                                          #
+[2023-01-18T09:51:48.258] INFO  # timeout = 0                                                                                      #
+[2023-01-18T09:51:48.259] INFO  # project = Test project                                                                           #
+[2023-01-18T09:51:48.259] INFO  # test-path = https://buy.testrail.io/index.php?/projects/overview/1                               #
+[2023-01-18T09:51:48.260] INFO  # format = playwright                                                                              #
+[2023-01-18T09:51:48.260] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-18T09:51:48.261] INFO  # search-mode = path                                                                               #
+[2023-01-18T09:51:48.261] INFO  # test-run =                                                                                       #
+[2023-01-18T09:51:48.262] INFO  # test-plan =                                                                                      #
+[2023-01-18T09:51:48.262] INFO  # milestone-path =                                                                                 #
+[2023-01-18T09:51:48.263] INFO  # case-fields =                                                                                    #
+[2023-01-18T09:51:48.263] INFO  # result-fields =                                                                                  #
+[2023-01-18T09:51:48.264] INFO  # assign =                                                                                         #
+[2023-01-18T09:51:48.264] INFO  # assign-file =                                                                                    #
+[2023-01-18T09:51:48.265] INFO  # config-names =                                                                                   #
+[2023-01-18T09:51:48.265] INFO  # close-run =                                                                                      #
+[2023-01-18T09:51:48.266] INFO  # close-plan =                                                                                     #
+[2023-01-18T09:51:48.266] INFO  # disable-grouping =                                                                               #
+[2023-01-18T09:51:48.267] INFO  # template-name =                                                                                  #
+[2023-01-18T09:51:48.267] INFO  # case-type =                                                                                      #
+[2023-01-18T09:51:48.268] INFO  # case-priority =                                                                                  #
+[2023-01-18T09:51:48.268] INFO  # thread-number = 4                                                                                #
+[2023-01-18T09:51:48.269] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-18T09:51:48.270] INFO  # case-search-field =                                                                              #
+[2023-01-18T09:51:48.270] INFO  # disable-stats =                                                                                  #
+[2023-01-18T09:51:48.270] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-18T09:51:48.271] INFO  # untested-status =                                                                                #
+[2023-01-18T09:51:48.271] INFO  # attachment-max-size =                                                                            #
+[2023-01-18T09:51:48.272] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-18T09:51:48.272] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-18T09:51:48.273] INFO  ####################################################################################################
+[2023-01-18T09:51:49.159] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-18T09:51:49.159] ERROR # Railflow license: ABCDE-12345-FGHIJ-67890 is invalid. Please contact Railflow for support.       #
+[2023-01-18T09:51:49.159] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-18T09:51:49.159] ERROR ####################################################################################################
+[2023-01-31T10:41:51.728] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-01-31T10:41:51.731] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-01-31T10:41:51.732] INFO  # url = https://testgsfhfgsjgfrgg.testrail.io                                                      #
+[2023-01-31T10:41:51.732] INFO  # username = khachik_m@instigatemobile.com                                                         #
+[2023-01-31T10:41:51.733] INFO  # password = ***********                                                                           #
+[2023-01-31T10:41:51.733] INFO  # proxy =                                                                                          #
+[2023-01-31T10:41:51.734] INFO  # timeout = 0                                                                                      #
+[2023-01-31T10:41:51.734] INFO  # project = test project                                                                           #
+[2023-01-31T10:41:51.734] INFO  # test-path = Tast                                                                                 #
+[2023-01-31T10:41:51.735] INFO  # format = playwright                                                                              #
+[2023-01-31T10:41:51.735] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-01-31T10:41:51.736] INFO  # search-mode = path                                                                               #
+[2023-01-31T10:41:51.736] INFO  # test-run =                                                                                       #
+[2023-01-31T10:41:51.736] INFO  # test-plan =                                                                                      #
+[2023-01-31T10:41:51.737] INFO  # milestone-path =                                                                                 #
+[2023-01-31T10:41:51.737] INFO  # case-fields =                                                                                    #
+[2023-01-31T10:41:51.738] INFO  # result-fields =                                                                                  #
+[2023-01-31T10:41:51.738] INFO  # assign =                                                                                         #
+[2023-01-31T10:41:51.738] INFO  # assign-file =                                                                                    #
+[2023-01-31T10:41:51.738] INFO  # config-names =                                                                                   #
+[2023-01-31T10:41:51.739] INFO  # close-run =                                                                                      #
+[2023-01-31T10:41:51.739] INFO  # close-plan =                                                                                     #
+[2023-01-31T10:41:51.739] INFO  # disable-grouping =                                                                               #
+[2023-01-31T10:41:51.740] INFO  # template-name =                                                                                  #
+[2023-01-31T10:41:51.740] INFO  # case-type =                                                                                      #
+[2023-01-31T10:41:51.740] INFO  # case-priority =                                                                                  #
+[2023-01-31T10:41:51.741] INFO  # thread-number = 4                                                                                #
+[2023-01-31T10:41:51.741] INFO  # upload-mode = Create, do not update                                                              #
+[2023-01-31T10:41:51.741] INFO  # case-search-field =                                                                              #
+[2023-01-31T10:41:51.742] INFO  # disable-stats =                                                                                  #
+[2023-01-31T10:41:51.742] INFO  # fully-qualified-test-name =                                                                      #
+[2023-01-31T10:41:51.742] INFO  # untested-status =                                                                                #
+[2023-01-31T10:41:51.742] INFO  # attachment-max-size =                                                                            #
+[2023-01-31T10:41:51.743] INFO  # attachment-type-blacklist =                                                                      #
+[2023-01-31T10:41:51.743] INFO  # attachment-type-whitelist =                                                                      #
+[2023-01-31T10:41:51.743] INFO  ####################################################################################################
+[2023-01-31T10:41:53.104] ERROR ##################################### Railflow License Invalid #####################################
+[2023-01-31T10:41:53.104] ERROR # Railflow license: Iy7I88tI9l46xKMf0mgF-NW6k3fUDwyq1.rTclhSi is invalid. Please contact Railflow for support.
+[2023-01-31T10:41:53.104] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-01-31T10:41:53.104] ERROR ####################################################################################################
+[2023-02-01T10:36:34.319] INFO  
+ ____         _  _   __  _                 
+|  _ \  __ _ (_)| | / _|| |  ___ __      __
+| |_) |/ _` || || || |_ | | / _ \\ \ /\ / /
+|  _ <| (_| || || ||  _|| || (_) |\ V  V / 
+|_| \_\\__,_||_||_||_|  |_| \___/  \_/\_/  
+                                           
+[2023-02-01T10:36:34.322] INFO  ################################ Railflow - Exporting Configuration ################################
+[2023-02-01T10:36:34.323] INFO  # url = https://testgsfhfgsjgfrgg.testrail.io                                                      #
+[2023-02-01T10:36:34.323] INFO  # username = khachik_m@instigatemobile.com                                                         #
+[2023-02-01T10:36:34.324] INFO  # password = ***********                                                                           #
+[2023-02-01T10:36:34.324] INFO  # proxy =                                                                                          #
+[2023-02-01T10:36:34.325] INFO  # timeout = 0                                                                                      #
+[2023-02-01T10:36:34.325] INFO  # project = test project                                                                           #
+[2023-02-01T10:36:34.325] INFO  # test-path = Tast                                                                                 #
+[2023-02-01T10:36:34.326] INFO  # format = playwright                                                                              #
+[2023-02-01T10:36:34.326] INFO  # report-files = ./playwright-report/test-results.json                                             #
+[2023-02-01T10:36:34.327] INFO  # search-mode = path                                                                               #
+[2023-02-01T10:36:34.327] INFO  # test-run =                                                                                       #
+[2023-02-01T10:36:34.327] INFO  # test-plan =                                                                                      #
+[2023-02-01T10:36:34.328] INFO  # milestone-path =                                                                                 #
+[2023-02-01T10:36:34.328] INFO  # case-fields =                                                                                    #
+[2023-02-01T10:36:34.329] INFO  # result-fields =                                                                                  #
+[2023-02-01T10:36:34.329] INFO  # assign =                                                                                         #
+[2023-02-01T10:36:34.329] INFO  # assign-file =                                                                                    #
+[2023-02-01T10:36:34.329] INFO  # config-names =                                                                                   #
+[2023-02-01T10:36:34.330] INFO  # close-run =                                                                                      #
+[2023-02-01T10:36:34.330] INFO  # close-plan =                                                                                     #
+[2023-02-01T10:36:34.331] INFO  # disable-grouping =                                                                               #
+[2023-02-01T10:36:34.331] INFO  # template-name =                                                                                  #
+[2023-02-01T10:36:34.331] INFO  # case-type =                                                                                      #
+[2023-02-01T10:36:34.332] INFO  # case-priority =                                                                                  #
+[2023-02-01T10:36:34.332] INFO  # thread-number = 4                                                                                #
+[2023-02-01T10:36:34.333] INFO  # upload-mode = Create, do not update                                                              #
+[2023-02-01T10:36:34.334] INFO  # case-search-field =                                                                              #
+[2023-02-01T10:36:34.334] INFO  # disable-stats =                                                                                  #
+[2023-02-01T10:36:34.334] INFO  # fully-qualified-test-name =                                                                      #
+[2023-02-01T10:36:34.335] INFO  # untested-status =                                                                                #
+[2023-02-01T10:36:34.335] INFO  # attachment-max-size =                                                                            #
+[2023-02-01T10:36:34.335] INFO  # attachment-type-blacklist =                                                                      #
+[2023-02-01T10:36:34.336] INFO  # attachment-type-whitelist =                                                                      #
+[2023-02-01T10:36:34.336] INFO  ####################################################################################################
+[2023-02-01T10:36:36.160] ERROR ##################################### Railflow License Invalid #####################################
+[2023-02-01T10:36:36.161] ERROR # Railflow license: Iy7I88tI9l46xKMf0mgF-NW6k3fUDwyq1.rTclhSi is invalid. Please contact Railflow for support.
+[2023-02-01T10:36:36.162] ERROR # Support URL: https://railflow.io/contact                                                         #
+[2023-02-01T10:36:36.163] ERROR ####################################################################################################
