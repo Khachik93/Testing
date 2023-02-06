@@ -4,5 +4,5 @@ def perfectNumber(num):
         if num % i == 0:  
             sum=sum+i  
     return sum == num 
-     
-print(perfectNumber(6))  
+
+print(perfectNumber(8))  
