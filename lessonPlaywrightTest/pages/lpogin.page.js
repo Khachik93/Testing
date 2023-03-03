@@ -18,4 +18,11 @@ exports.LoginPage = class LoginPage {
   async clickMyAccount() {
     await this.loginButton.click();
   }
+
+  async checkComponentes() {
+    await expect(this.loginContainer).toBeVisible();
+    await expect(this.loginContainerTitle).toHaveText(/Returning Customer/);
+    await expect(this.newCustomerContainer).toBeVisible();
+    await expect(this.newCustomerTitle).toHaveText(/New Customer/)
+  }
 }
