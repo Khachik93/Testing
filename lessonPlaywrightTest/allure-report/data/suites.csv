@@ -1,0 +1,2 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Tue Feb 28 19:39:40 AMT 2023","Tue Feb 28 19:39:47 AMT 2023","7340","chromium","example.spec.js","","","","Verify the my account field functionality @C8",""

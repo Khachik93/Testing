@@ -1,0 +1,109 @@
+{
+    "users": [
+        {
+            "id": "1",
+            "firstName": "FirstName1",
+            "lastName": "LastName1",
+            "address": "Address1",
+            "phone": "PhoneNumber1",
+            "email": "Email1",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "2",
+            "firstName": "FirstName2",
+            "lastName": "LastName2",
+            "address": "Address2",
+            "phone": "PhoneNumber2",
+            "email": "Email2",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "3",
+            "firstName": "FirstName3",
+            "lastName": "LastName3",
+            "address": "Address3",
+            "phone": "PhoneNumber3",
+            "email": "Email3",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "4",
+            "firstName": "FirstName4",
+            "lastName": "LastName4",
+            "address": "Address4",
+            "phone": "PhoneNumber4",
+            "email": "Email4",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "5",
+            "firstName": "FirstName5",
+            "lastName": "LastName5",
+            "address": "Address5",
+            "phone": "PhoneNumber5",
+            "email": "Email5",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "6",
+            "firstName": "FirstName6",
+            "lastName": "LastName6",
+            "address": "Address6",
+            "phone": "PhoneNumber6",
+            "email": "Email6",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        },
+        {
+            "id": "7",
+            "firstName": "FirstName7",
+            "lastName": "LastName7",
+            "address": "Address7",
+            "phone": "PhoneNumber7",
+            "email": "Email7",
+            "rates": {
+                "Mathemathics": "5",
+                "English": "2",
+                "Physics": "3",
+                "Geography": "6",
+                "Algorithms": "2"
+            }
+        }
+    ]
+}
