@@ -6,7 +6,12 @@ const { devices } = require('@playwright/test');
  * https://github.com/motdotla/dotenv
  */
 // require('dotenv').config();
-
+const testRailOptions = {
+  // Whether to add <properties> with all annotations; default is false
+  embedAnnotationsAsProperties: true,
+  // Where to put the report.
+  outputFile: './test-results/junit-report.xml'
+};
 
 /**
  * @see https://playwright.dev/docs/test-configuration
@@ -21,7 +26,8 @@ const config = {
      * Maximum time expect() should wait for the condition to be met.
      * For example in `await expect(locator).toHaveText();`
      */
-    timeout: 5000
+    timeout: 5000,
+    
   },
   /* Run tests in files in parallel */
   fullyParallel: true,
@@ -32,7 +38,7 @@ const config = {
   /* Opt out of parallel tests on CI. */
   workers: process.env.CI ? 1 : undefined,
   /* Reporter to use. See https://playwright.dev/docs/test-reporters */
-  reporter: 'html',
+  reporter: [['json', { outputFile: 'playwright-report/test-results.json' }]],
   /* Shared settings for all the projects below. See https://playwright.dev/docs/api/class-testoptions. */
   use: {
     /* Maximum time each action such as `click()` can take. Defaults to 0 (no limit). */
